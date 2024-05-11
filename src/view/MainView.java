@@ -221,7 +221,6 @@ public class MainView extends javax.swing.JFrame {
                 controller.isiTabel();
                 new JOptionPane().showMessageDialog(null, "Data Berhasil Diupdate");
             }
-           
         }
     }//GEN-LAST:event_btUpdateActionPerformed
     

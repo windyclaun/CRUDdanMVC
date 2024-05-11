@@ -3,7 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/PBO/MVCdanCRUD/src/koneksi/connector.java</file>
+            <file>file:/D:/PBO/MVCdanCRUD/CRUDdanMVC/src/DAOImplement/DataImplement.java</file>
+            <file>file:/D:/PBO/MVCdanCRUD/CRUDdanMVC/src/view/MainView.java</file>
+            <file>file:/D:/PBO/MVCdanCRUD/CRUDdanMVC/src/view/Main.java</file>
+            <file>file:/D:/PBO/MVCdanCRUD/CRUDdanMVC/src/DAODataMovie/DataMovieDAO.java</file>
+            <file>file:/D:/PBO/MVCdanCRUD/CRUDdanMVC/src/model/DataMovie.java</file>
         </group>
     </open-files>
 </project-private>
